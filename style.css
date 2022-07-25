@@ -1,0 +1,29 @@
+.container{
+  width: 80%;
+}
+nav a{
+  font-weight:600;
+}
+.slide-button{
+  width: 100px;
+}
+.banner-title{
+  font-size: 50px;
+  width: 70%;
+}
+
+/* Every moment is Precious section start*/
+section{
+  margin-bottom: 100px;
+} 
+@media only screen and (min-width:768px)and(max-width:1400px) {
+  .carousel-control-next-icon,.carousel-control-prev-icon{
+  padding: 30px;
+  margin-left: 100px;
+  margin-bottom: 150px;
+   }
+}
+ 
+
+
+
